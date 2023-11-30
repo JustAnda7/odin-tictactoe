@@ -1,0 +1,1 @@
+This project from [The Odin Project](https://www.theodinproject.com/lessons/ruby-tic-tac-toe) is a command line Tic-Tac-Toe built using Ruby 
